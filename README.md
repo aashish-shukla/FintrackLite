@@ -2,6 +2,9 @@
 
 FinTrackLite is a simple yet effective personal finance manager web application that allows users to track their income, expenses, budgets, and financial goals conveniently.
 
+## URL: https://fintracklite.netlify.app/
+
+
 ## Features
 
 - **Track Income and Expenses**: Easily add and manage your income and expenses.
